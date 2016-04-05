@@ -1,0 +1,28 @@
+name: sidekick
+favicon: null
+layout_spectrum: 0.6498508264776319
+typography_spectrum: 0.8661111816763878
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.03617712575942278
+  lightness: 0.26312931487336755
+  saturation: 0.10968974092975259
+  rhythmicContrast: 0.6059676397126168
+purpose: []
